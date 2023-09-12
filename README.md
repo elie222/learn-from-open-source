@@ -36,6 +36,7 @@ Feel free to make a pull request to add more projects to the list.
 - [Quivr](https://github.com/StanGirard/quivr)
 - [Vercel Platforms Starter](https://github.com/vercel/platforms)
 - [YC Idea Matcher](https://github.com/neondatabase/yc-idea-matcher)
+- [OpenBio](https://github.com/vanxh/openbio)
 
 ## Custom Domains
 
