@@ -47,6 +47,7 @@ Feel free to make a pull request to add more projects to the list.
 ## Drizzle
 
 - [OpenStatus](https://github.com/openstatusHQ/openstatus)
+- [OpenBio](https://github.com/vanxh/openbio)
 
 ## Gmail API
 
@@ -63,6 +64,7 @@ Feel free to make a pull request to add more projects to the list.
 ## Neon
 
 - [YC Idea Matcher](https://github.com/neondatabase/yc-idea-matcher)
+- [OpenBio](https://github.com/vanxh/openbio)
 
 ## Next.js
 
@@ -74,6 +76,7 @@ Feel free to make a pull request to add more projects to the list.
 - [Quivr](https://github.com/StanGirard/quivr)
 - [Vercel Platforms Starter](https://github.com/vercel/platforms)
 - [YC Idea Matcher](https://github.com/neondatabase/yc-idea-matcher)
+- [OpenBio](https://github.com/vanxh/openbio)
 
 ## Next Auth
 
@@ -91,10 +94,12 @@ Feel free to make a pull request to add more projects to the list.
 - [Dub.co](https://github.com/steven-tey/dub)
 - [OpenStatus](https://github.com/openstatusHQ/openstatus)
 - [Papermark](https://github.com/mfts/papermark)
+- [OpenBio](https://github.com/vanxh/openbio)
 
 ## Stripe
 
 - [Dub.co](https://github.com/steven-tey/dub)
+- [OpenBio](https://github.com/vanxh/openbio)
 
 ## Supabase
 
@@ -110,6 +115,7 @@ Feel free to make a pull request to add more projects to the list.
 - [Quivr](https://github.com/StanGirard/quivr)
 - [Vercel Platforms Starter](https://github.com/vercel/platforms)
 - [YC Idea Matcher](https://github.com/neondatabase/yc-idea-matcher)
+- [OpenBio](https://github.com/vanxh/openbio)
 
 ## Tinybird
 
@@ -120,10 +126,12 @@ Feel free to make a pull request to add more projects to the list.
 ## Tiptap
 
 - [Novel.sh](https://github.com/steven-tey/novel)
+- [OpenBio](https://github.com/vanxh/openbio)
 
 ## tRPC
 
 - [Cal.com](https://github.com/calcom/cal.com)
+- [OpenBio](https://github.com/vanxh/openbio)
 
 ## Turborepo
 
@@ -140,3 +148,4 @@ Feel free to make a pull request to add more projects to the list.
 - [Dub.co](https://github.com/steven-tey/dub)
 - [Inbox Zero](https://getinboxzero.com/github)
 - [YC Idea Matcher](https://github.com/neondatabase/yc-idea-matcher)
+- [OpenBio](https://github.com/vanxh/openbio)
