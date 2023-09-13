@@ -28,8 +28,8 @@ Feel free to make a pull request to add more projects to the list.
 
 ## YouTube Channels
 
-[Elie Steinbock](https://www.youtube.com/@elie2222)
-[Marc Seitz](https://www.youtube.com/@marcseitz)
+- [Elie Steinbock](https://www.youtube.com/@elie2222)
+- [Marc Seitz](https://www.youtube.com/@marcseitz)
 
 ## Projects
 
