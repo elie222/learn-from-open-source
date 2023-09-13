@@ -7,6 +7,7 @@ Feel free to make a pull request to add more projects to the list.
 ## Table of Contents:
 
 - [Custom Domains](#custom-domains)
+- [Docker](#docker)
 - [Drizzle](#drizzle)
 - [Gmail API](#gmail-api)
 - [OpenAI](#openai)
@@ -27,6 +28,7 @@ Feel free to make a pull request to add more projects to the list.
 
 ## Projects
 
+- [Documenso](https://github.com/documenso/documenso)
 - [Dub.co](https://github.com/steven-tey/dub)
 - [Cal.com](https://github.com/calcom/cal.com)
 - [Inbox Zero](https://getinboxzero.com/github)
@@ -44,6 +46,10 @@ Feel free to make a pull request to add more projects to the list.
 - [Cal.com](https://github.com/calcom/cal.com)
 - [Papermark](https://github.com/mfts/papermark)
 - [Vercel Platforms Starter](https://github.com/vercel/platforms)
+
+## Docker
+
+- [Documenso](https://github.com/documenso/documenso)
 
 ## Drizzle
 
@@ -69,6 +75,7 @@ Feel free to make a pull request to add more projects to the list.
 
 ## Next.js
 
+- [Documenso](https://github.com/documenso/documenso)
 - [Dub.co](https://github.com/steven-tey/dub)
 - [Cal.com](https://github.com/calcom/cal.com)
 - [Inbox Zero](https://getinboxzero.com/github)
@@ -81,11 +88,13 @@ Feel free to make a pull request to add more projects to the list.
 
 ## Next Auth
 
+- [Documenso](https://github.com/documenso/documenso)
 - [Dub.co](https://github.com/steven-tey/dub)
 - [Inbox Zero](https://getinboxzero.com/github)
 
 ## Prisma
 
+- [Documenso](https://github.com/documenso/documenso)
 - [Dub.co](https://github.com/steven-tey/dub)
 - [Cal.com](https://github.com/calcom/cal.com)
 - [Inbox Zero](https://getinboxzero.com/github)
@@ -99,6 +108,7 @@ Feel free to make a pull request to add more projects to the list.
 
 ## Stripe
 
+- [Documenso](https://github.com/documenso/documenso)
 - [Dub.co](https://github.com/steven-tey/dub)
 - [OpenBio](https://github.com/vanxh/openbio)
 
@@ -108,6 +118,7 @@ Feel free to make a pull request to add more projects to the list.
 
 ## Tailwind
 
+- [Documenso](https://github.com/documenso/documenso)
 - [Dub.co](https://github.com/steven-tey/dub)
 - [Cal.com](https://github.com/calcom/cal.com)
 - [Inbox Zero](https://getinboxzero.com/github)
@@ -136,6 +147,7 @@ Feel free to make a pull request to add more projects to the list.
 
 ## Turborepo
 
+- [Documenso](https://github.com/documenso/documenso)
 - [Cal.com](https://github.com/calcom/cal.com)
 - [Inbox Zero](https://getinboxzero.com/github)
 - [Novel.sh](https://github.com/steven-tey/novel)
