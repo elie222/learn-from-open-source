@@ -132,6 +132,8 @@ Feel free to make a pull request to add more projects to the list.
 - [Documenso](https://github.com/documenso/documenso)
 - [Dub.co](https://github.com/steven-tey/dub)
 - [OpenBio](https://github.com/vanxh/openbio)
+- [OpenStatus](https://github.com/openstatusHQ/openstatus)
+- [Papermark](https://github.com/mfts/papermark)
 
 ## Supabase
 
