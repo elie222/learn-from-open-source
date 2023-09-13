@@ -18,6 +18,7 @@ Feel free to make a pull request to add more projects to the list.
 - [Resend](#resend)
 - [Stripe](#stripe)
 - [Supabase](#supabase)
+- [T3](#t3)
 - [Tailwind](#tailwind)
 - [Tinybird](#tinybird)
 - [Tiptap](#tiptap)
@@ -120,6 +121,15 @@ Feel free to make a pull request to add more projects to the list.
 ## Supabase
 
 - [Quivr](https://github.com/StanGirard/quivr)
+
+## T3
+
+- [Analyzemyrepo](https://github.com/CrowdDotDev/analyzemyrepo)
+- [AnswerOverflow](https://github.com/AnswerOverflow/AnswerOverflow)
+- [Cal.com](https://github.com/calcom/cal.com)
+- [OpenBio](https://github.com/vanxh/openbio)
+- [Railtrack](https://github.com/noahflk/railtrack)
+- [Zapdos](https://github.com/pingdotgg/zapdos)
 
 ## Tailwind
 
