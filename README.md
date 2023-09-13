@@ -26,6 +26,11 @@ Feel free to make a pull request to add more projects to the list.
 - [Turso](#turso)
 - [Upstash](#upstash)
 
+## YouTube Channels
+
+[Elie Steinbock](https://www.youtube.com/@elie2222)
+[Marc Seitz](https://www.youtube.com/@marcseitz)
+
 ## Projects
 
 - [Documenso](https://github.com/documenso/documenso)
