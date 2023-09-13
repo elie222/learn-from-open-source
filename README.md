@@ -34,6 +34,8 @@ Feel free to make a pull request to add more projects to the list.
 
 ## Projects
 
+- [Analyzemyrepo](https://github.com/CrowdDotDev/analyzemyrepo)
+- [AnswerOverflow](https://github.com/AnswerOverflow/AnswerOverflow)
 - [Documenso](https://github.com/documenso/documenso)
 - [Dub.co](https://github.com/steven-tey/dub)
 - [Cal.com](https://github.com/calcom/cal.com)
@@ -42,9 +44,11 @@ Feel free to make a pull request to add more projects to the list.
 - [Novel.sh](https://github.com/steven-tey/novel)
 - [Papermark](https://github.com/mfts/papermark)
 - [Quivr](https://github.com/StanGirard/quivr)
+- [Railtrack](https://github.com/noahflk/railtrack)
 - [Vercel Platforms Starter](https://github.com/vercel/platforms)
 - [YC Idea Matcher](https://github.com/neondatabase/yc-idea-matcher)
 - [OpenBio](https://github.com/vanxh/openbio)
+- [Zapdos](https://github.com/pingdotgg/zapdos)
 
 ## Custom Domains
 
@@ -55,10 +59,13 @@ Feel free to make a pull request to add more projects to the list.
 
 ## Docker
 
+- [AnswerOverflow](https://github.com/AnswerOverflow/AnswerOverflow)
 - [Documenso](https://github.com/documenso/documenso)
+- [Zapdos](https://github.com/pingdotgg/zapdos)
 
 ## Drizzle
 
+- [AnswerOverflow](https://github.com/AnswerOverflow/AnswerOverflow)
 - [OpenStatus](https://github.com/openstatusHQ/openstatus)
 - [OpenBio](https://github.com/vanxh/openbio)
 
@@ -81,6 +88,7 @@ Feel free to make a pull request to add more projects to the list.
 
 ## Next.js
 
+- [Analyzemyrepo](https://github.com/CrowdDotDev/analyzemyrepo)
 - [Documenso](https://github.com/documenso/documenso)
 - [Dub.co](https://github.com/steven-tey/dub)
 - [Cal.com](https://github.com/calcom/cal.com)
@@ -88,15 +96,20 @@ Feel free to make a pull request to add more projects to the list.
 - [OpenStatus](https://github.com/openstatusHQ/openstatus)
 - [Papermark](https://github.com/mfts/papermark)
 - [Quivr](https://github.com/StanGirard/quivr)
+- [Railtrack](https://github.com/noahflk/railtrack)
 - [Vercel Platforms Starter](https://github.com/vercel/platforms)
 - [YC Idea Matcher](https://github.com/neondatabase/yc-idea-matcher)
 - [OpenBio](https://github.com/vanxh/openbio)
+- [Zapdos](https://github.com/pingdotgg/zapdos)
 
 ## Next Auth
 
+- [Analyzemyrepo](https://github.com/CrowdDotDev/analyzemyrepo)
+- [AnswerOverflow](https://github.com/AnswerOverflow/AnswerOverflow)
 - [Documenso](https://github.com/documenso/documenso)
 - [Dub.co](https://github.com/steven-tey/dub)
 - [Inbox Zero](https://getinboxzero.com/github)
+- [Zapdos](https://github.com/pingdotgg/zapdos)
 
 ## Prisma
 
@@ -104,6 +117,8 @@ Feel free to make a pull request to add more projects to the list.
 - [Dub.co](https://github.com/steven-tey/dub)
 - [Cal.com](https://github.com/calcom/cal.com)
 - [Inbox Zero](https://getinboxzero.com/github)
+- [Railtrack](https://github.com/noahflk/railtrack)
+- [Zapdos](https://github.com/pingdotgg/zapdos)
 
 ## Resend
 
@@ -121,6 +136,7 @@ Feel free to make a pull request to add more projects to the list.
 ## Supabase
 
 - [Quivr](https://github.com/StanGirard/quivr)
+- [Railtrack](https://github.com/noahflk/railtrack)
 
 ## T3
 
@@ -133,6 +149,8 @@ Feel free to make a pull request to add more projects to the list.
 
 ## Tailwind
 
+- [Analyzemyrepo](https://github.com/CrowdDotDev/analyzemyrepo)
+- [AnswerOverflow](https://github.com/AnswerOverflow/AnswerOverflow)
 - [Documenso](https://github.com/documenso/documenso)
 - [Dub.co](https://github.com/steven-tey/dub)
 - [Cal.com](https://github.com/calcom/cal.com)
@@ -140,9 +158,11 @@ Feel free to make a pull request to add more projects to the list.
 - [OpenStatus](https://github.com/openstatusHQ/openstatus)
 - [Papermark](https://github.com/mfts/papermark)
 - [Quivr](https://github.com/StanGirard/quivr)
+- [Railtrack](https://github.com/noahflk/railtrack)
 - [Vercel Platforms Starter](https://github.com/vercel/platforms)
 - [YC Idea Matcher](https://github.com/neondatabase/yc-idea-matcher)
 - [OpenBio](https://github.com/vanxh/openbio)
+- [Zapdos](https://github.com/pingdotgg/zapdos)
 
 ## Tinybird
 
@@ -157,15 +177,20 @@ Feel free to make a pull request to add more projects to the list.
 
 ## tRPC
 
+- [Analyzemyrepo](https://github.com/CrowdDotDev/analyzemyrepo)
+- [AnswerOverflow](https://github.com/AnswerOverflow/AnswerOverflow)
 - [Cal.com](https://github.com/calcom/cal.com)
 - [OpenBio](https://github.com/vanxh/openbio)
+- [Zapdos](https://github.com/pingdotgg/zapdos)
 
 ## Turborepo
 
+- [AnswerOverflow](https://github.com/AnswerOverflow/AnswerOverflow)
 - [Documenso](https://github.com/documenso/documenso)
 - [Cal.com](https://github.com/calcom/cal.com)
 - [Inbox Zero](https://getinboxzero.com/github)
 - [Novel.sh](https://github.com/steven-tey/novel)
+- [Railtrack](https://github.com/noahflk/railtrack)
 
 ## Turso
 
