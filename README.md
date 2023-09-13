@@ -11,6 +11,7 @@ Feel free to make a pull request to add more projects to the list.
 - [Drizzle](#drizzle)
 - [Gmail API](#gmail-api)
 - [OpenAI](#openai)
+- [Lemon Squeezy](#lemon-squeezy)
 - [Neon](#neon)
 - [Next.js](#nextjs)
 - [Next Auth](#next-auth)
@@ -80,6 +81,10 @@ Feel free to make a pull request to add more projects to the list.
 - [Quivr](https://github.com/StanGirard/quivr)
 - [Vercel Platforms Starter](https://github.com/vercel/platforms)
 - [YC Idea Matcher](https://github.com/neondatabase/yc-idea-matcher)
+
+## Lemon Squeezy
+
+- [Inbox Zero](https://getinboxzero.com/github)
 
 ## Neon
 
