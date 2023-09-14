@@ -15,6 +15,7 @@ Feel free to make a pull request to add more projects to the list.
 - [Neon](#neon)
 - [Next.js](#nextjs)
 - [Next Auth](#next-auth)
+- [PostHog](#posthog)
 - [Prisma](#prisma)
 - [Resend](#resend)
 - [Stripe](#stripe)
@@ -117,6 +118,10 @@ Feel free to make a pull request to add more projects to the list.
 - [Dub.co](https://github.com/steven-tey/dub)
 - [Inbox Zero](https://getinboxzero.com/github)
 - [Zapdos](https://github.com/pingdotgg/zapdos)
+
+## PostHog
+
+- [Inbox Zero](https://getinboxzero.com/github)
 
 ## Prisma
 
