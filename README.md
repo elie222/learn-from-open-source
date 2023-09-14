@@ -40,6 +40,7 @@ Feel free to make a pull request to add more projects to the list.
 - [Documenso](https://github.com/documenso/documenso)
 - [Dub.co](https://github.com/steven-tey/dub)
 - [Cal.com](https://github.com/calcom/cal.com)
+- [Ghostfolio](https://github.com/ghostfolio/ghostfolio)
 - [Inbox Zero](https://getinboxzero.com/github)
 - [OpenStatus](https://github.com/openstatusHQ/openstatus)
 - [Novel.sh](https://github.com/steven-tey/novel)
@@ -62,6 +63,7 @@ Feel free to make a pull request to add more projects to the list.
 
 - [AnswerOverflow](https://github.com/AnswerOverflow/AnswerOverflow)
 - [Documenso](https://github.com/documenso/documenso)
+- [Ghostfolio](https://github.com/ghostfolio/ghostfolio)
 - [Zapdos](https://github.com/pingdotgg/zapdos)
 
 ## Drizzle
@@ -121,6 +123,7 @@ Feel free to make a pull request to add more projects to the list.
 - [Documenso](https://github.com/documenso/documenso)
 - [Dub.co](https://github.com/steven-tey/dub)
 - [Cal.com](https://github.com/calcom/cal.com)
+- [Ghostfolio](https://github.com/ghostfolio/ghostfolio)
 - [Inbox Zero](https://getinboxzero.com/github)
 - [Railtrack](https://github.com/noahflk/railtrack)
 - [Zapdos](https://github.com/pingdotgg/zapdos)
@@ -136,6 +139,7 @@ Feel free to make a pull request to add more projects to the list.
 
 - [Documenso](https://github.com/documenso/documenso)
 - [Dub.co](https://github.com/steven-tey/dub)
+- [Ghostfolio](https://github.com/ghostfolio/ghostfolio)
 - [OpenBio](https://github.com/vanxh/openbio)
 - [OpenStatus](https://github.com/openstatusHQ/openstatus)
 - [Papermark](https://github.com/mfts/papermark)
