@@ -107,6 +107,10 @@ Feel free to make a pull request to add more projects to the list.
 - [Inbox Zero](https://getinboxzero.com/github)
 - [Trigger.dev](https://github.com/triggerdotdev/trigger.dev)
 
+## Remix
+
+- [Trigger.dev](https://github.com/triggerdotdev/trigger.dev)
+
 ## Resend
 
 - [Dub.co](https://github.com/steven-tey/dub)
