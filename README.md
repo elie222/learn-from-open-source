@@ -6,6 +6,7 @@ Feel free to make a pull request to add more projects to the list.
 
 ## Table of Contents:
 
+- [Angular](#angular)
 - [Custom Domains](#custom-domains)
 - [Docker](#docker)
 - [Drizzle](#drizzle)
@@ -13,8 +14,10 @@ Feel free to make a pull request to add more projects to the list.
 - [OpenAI](#openai)
 - [Lemon Squeezy](#lemon-squeezy)
 - [Neon](#neon)
+- [Nestjs](#nestjs)
 - [Next.js](#nextjs)
 - [Next Auth](#next-auth)
+- [PostHog](#posthog)
 - [Prisma](#prisma)
 - [Resend](#resend)
 - [Stripe](#stripe)
@@ -45,12 +48,17 @@ Feel free to make a pull request to add more projects to the list.
 - [OpenStatus](https://github.com/openstatusHQ/openstatus)
 - [Novel.sh](https://github.com/steven-tey/novel)
 - [Papermark](https://github.com/mfts/papermark)
+- [Trigger.dev](https://github.com/triggerdotdev/trigger.dev)
 - [Quivr](https://github.com/StanGirard/quivr)
 - [Railtrack](https://github.com/noahflk/railtrack)
 - [Vercel Platforms Starter](https://github.com/vercel/platforms)
 - [YC Idea Matcher](https://github.com/neondatabase/yc-idea-matcher)
 - [OpenBio](https://github.com/vanxh/openbio)
 - [Zapdos](https://github.com/pingdotgg/zapdos)
+
+## Angular
+
+- [Ghostfolio](https://github.com/ghostfolio/ghostfolio)
 
 ## Custom Domains
 
@@ -64,6 +72,7 @@ Feel free to make a pull request to add more projects to the list.
 - [AnswerOverflow](https://github.com/AnswerOverflow/AnswerOverflow)
 - [Documenso](https://github.com/documenso/documenso)
 - [Ghostfolio](https://github.com/ghostfolio/ghostfolio)
+- [Trigger.dev](https://github.com/triggerdotdev/trigger.dev)
 - [Zapdos](https://github.com/pingdotgg/zapdos)
 
 ## Drizzle
@@ -93,6 +102,10 @@ Feel free to make a pull request to add more projects to the list.
 - [YC Idea Matcher](https://github.com/neondatabase/yc-idea-matcher)
 - [OpenBio](https://github.com/vanxh/openbio)
 
+## Nestjs
+
+- [Ghostfolio](https://github.com/ghostfolio/ghostfolio)
+
 ## Next.js
 
 - [Analyzemyrepo](https://github.com/CrowdDotDev/analyzemyrepo)
@@ -118,6 +131,10 @@ Feel free to make a pull request to add more projects to the list.
 - [Inbox Zero](https://getinboxzero.com/github)
 - [Zapdos](https://github.com/pingdotgg/zapdos)
 
+## PostHog
+
+- [Inbox Zero](https://getinboxzero.com/github)
+
 ## Prisma
 
 - [Documenso](https://github.com/documenso/documenso)
@@ -125,7 +142,12 @@ Feel free to make a pull request to add more projects to the list.
 - [Cal.com](https://github.com/calcom/cal.com)
 - [Ghostfolio](https://github.com/ghostfolio/ghostfolio)
 - [Inbox Zero](https://getinboxzero.com/github)
+- [Trigger.dev](https://github.com/triggerdotdev/trigger.dev)
+
+## Remix
+
 - [Railtrack](https://github.com/noahflk/railtrack)
+- [Trigger.dev](https://github.com/triggerdotdev/trigger.dev)
 - [Zapdos](https://github.com/pingdotgg/zapdos)
 
 ## Resend
@@ -173,6 +195,7 @@ Feel free to make a pull request to add more projects to the list.
 - [Vercel Platforms Starter](https://github.com/vercel/platforms)
 - [YC Idea Matcher](https://github.com/neondatabase/yc-idea-matcher)
 - [OpenBio](https://github.com/vanxh/openbio)
+- [Trigger.dev](https://github.com/triggerdotdev/trigger.dev)
 - [Zapdos](https://github.com/pingdotgg/zapdos)
 
 ## Tinybird
@@ -201,7 +224,8 @@ Feel free to make a pull request to add more projects to the list.
 - [Cal.com](https://github.com/calcom/cal.com)
 - [Inbox Zero](https://getinboxzero.com/github)
 - [Novel.sh](https://github.com/steven-tey/novel)
-- [Railtrack](https://github.com/noahflk/railtrack)
+- [Railtrack](https://github.com/noahflk/railtrac
+- [Trigger.dev](https://github.com/triggerdotdev/trigger.dev)
 
 ## Turso
 
