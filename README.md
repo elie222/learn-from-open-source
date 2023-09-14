@@ -44,6 +44,7 @@ Feel free to make a pull request to add more projects to the list.
 - [OpenStatus](https://github.com/openstatusHQ/openstatus)
 - [Novel.sh](https://github.com/steven-tey/novel)
 - [Papermark](https://github.com/mfts/papermark)
+- [Trigger.dev](https://github.com/triggerdotdev/trigger.dev)
 - [Quivr](https://github.com/StanGirard/quivr)
 - [Railtrack](https://github.com/noahflk/railtrack)
 - [Vercel Platforms Starter](https://github.com/vercel/platforms)
@@ -62,6 +63,7 @@ Feel free to make a pull request to add more projects to the list.
 
 - [AnswerOverflow](https://github.com/AnswerOverflow/AnswerOverflow)
 - [Documenso](https://github.com/documenso/documenso)
+- [Trigger.dev](https://github.com/triggerdotdev/trigger.dev)
 - [Zapdos](https://github.com/pingdotgg/zapdos)
 
 ## Drizzle
@@ -122,7 +124,12 @@ Feel free to make a pull request to add more projects to the list.
 - [Dub.co](https://github.com/steven-tey/dub)
 - [Cal.com](https://github.com/calcom/cal.com)
 - [Inbox Zero](https://getinboxzero.com/github)
+- [Trigger.dev](https://github.com/triggerdotdev/trigger.dev)
+
+## Remix
+
 - [Railtrack](https://github.com/noahflk/railtrack)
+- [Trigger.dev](https://github.com/triggerdotdev/trigger.dev)
 - [Zapdos](https://github.com/pingdotgg/zapdos)
 
 ## Resend
@@ -169,6 +176,7 @@ Feel free to make a pull request to add more projects to the list.
 - [Vercel Platforms Starter](https://github.com/vercel/platforms)
 - [YC Idea Matcher](https://github.com/neondatabase/yc-idea-matcher)
 - [OpenBio](https://github.com/vanxh/openbio)
+- [Trigger.dev](https://github.com/triggerdotdev/trigger.dev)
 - [Zapdos](https://github.com/pingdotgg/zapdos)
 
 ## Tinybird
@@ -197,7 +205,8 @@ Feel free to make a pull request to add more projects to the list.
 - [Cal.com](https://github.com/calcom/cal.com)
 - [Inbox Zero](https://getinboxzero.com/github)
 - [Novel.sh](https://github.com/steven-tey/novel)
-- [Railtrack](https://github.com/noahflk/railtrack)
+- [Railtrack](https://github.com/noahflk/railtrac
+- [Trigger.dev](https://github.com/triggerdotdev/trigger.dev)
 
 ## Turso
 
