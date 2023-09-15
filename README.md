@@ -28,6 +28,7 @@ Feel free to make a pull request to add more projects to the list.
 - [Turborepo](#turborepo)
 - [Turso](#turso)
 - [Upstash](#upstash)
+- [CLI](#cli)
 
 ## YouTube Channels
 
@@ -226,3 +227,7 @@ Feel free to make a pull request to add more projects to the list.
 - [Inbox Zero](https://getinboxzero.com/github)
 - [YC Idea Matcher](https://github.com/neondatabase/yc-idea-matcher)
 - [OpenBio](https://github.com/vanxh/openbio)
+
+# CLI
+
+- [Commitgpt](https://github.com/RomanHotsiy/commitgpt)
