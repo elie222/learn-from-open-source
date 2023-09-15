@@ -14,7 +14,7 @@ Feel free to make a pull request to add more projects to the list.
 - [OpenAI](#openai)
 - [Lemon Squeezy](#lemon-squeezy)
 - [Neon](#neon)
-- [Nestjs](#nestjs)
+- [NestJS](#nestjs)
 - [Next.js](#nextjs)
 - [Next Auth](#next-auth)
 - [PostHog](#posthog)
@@ -102,7 +102,7 @@ Feel free to make a pull request to add more projects to the list.
 - [YC Idea Matcher](https://github.com/neondatabase/yc-idea-matcher)
 - [OpenBio](https://github.com/vanxh/openbio)
 
-## Nestjs
+## NestJS
 
 - [Ghostfolio](https://github.com/ghostfolio/ghostfolio)
 
