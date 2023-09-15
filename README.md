@@ -6,6 +6,7 @@ Feel free to make a pull request to add more projects to the list.
 
 ## Table of Contents:
 
+- [Angular](#angular)
 - [Custom Domains](#custom-domains)
 - [Docker](#docker)
 - [Drizzle](#drizzle)
@@ -13,6 +14,7 @@ Feel free to make a pull request to add more projects to the list.
 - [OpenAI](#openai)
 - [Lemon Squeezy](#lemon-squeezy)
 - [Neon](#neon)
+- [Nestjs](#nestjs)
 - [Next.js](#nextjs)
 - [Next Auth](#next-auth)
 - [PostHog](#posthog)
@@ -41,6 +43,7 @@ Feel free to make a pull request to add more projects to the list.
 - [Documenso](https://github.com/documenso/documenso)
 - [Dub.co](https://github.com/steven-tey/dub)
 - [Cal.com](https://github.com/calcom/cal.com)
+- [Ghostfolio](https://github.com/ghostfolio/ghostfolio)
 - [Inbox Zero](https://getinboxzero.com/github)
 - [OpenStatus](https://github.com/openstatusHQ/openstatus)
 - [Novel.sh](https://github.com/steven-tey/novel)
@@ -53,6 +56,10 @@ Feel free to make a pull request to add more projects to the list.
 - [OpenBio](https://github.com/vanxh/openbio)
 - [Zapdos](https://github.com/pingdotgg/zapdos)
 
+## Angular
+
+- [Ghostfolio](https://github.com/ghostfolio/ghostfolio)
+
 ## Custom Domains
 
 - [Dub.co](https://github.com/steven-tey/dub)
@@ -64,6 +71,7 @@ Feel free to make a pull request to add more projects to the list.
 
 - [AnswerOverflow](https://github.com/AnswerOverflow/AnswerOverflow)
 - [Documenso](https://github.com/documenso/documenso)
+- [Ghostfolio](https://github.com/ghostfolio/ghostfolio)
 - [Trigger.dev](https://github.com/triggerdotdev/trigger.dev)
 - [Zapdos](https://github.com/pingdotgg/zapdos)
 
@@ -93,6 +101,10 @@ Feel free to make a pull request to add more projects to the list.
 
 - [YC Idea Matcher](https://github.com/neondatabase/yc-idea-matcher)
 - [OpenBio](https://github.com/vanxh/openbio)
+
+## Nestjs
+
+- [Ghostfolio](https://github.com/ghostfolio/ghostfolio)
 
 ## Next.js
 
@@ -128,6 +140,7 @@ Feel free to make a pull request to add more projects to the list.
 - [Documenso](https://github.com/documenso/documenso)
 - [Dub.co](https://github.com/steven-tey/dub)
 - [Cal.com](https://github.com/calcom/cal.com)
+- [Ghostfolio](https://github.com/ghostfolio/ghostfolio)
 - [Inbox Zero](https://getinboxzero.com/github)
 - [Trigger.dev](https://github.com/triggerdotdev/trigger.dev)
 
@@ -148,6 +161,7 @@ Feel free to make a pull request to add more projects to the list.
 
 - [Documenso](https://github.com/documenso/documenso)
 - [Dub.co](https://github.com/steven-tey/dub)
+- [Ghostfolio](https://github.com/ghostfolio/ghostfolio)
 - [OpenBio](https://github.com/vanxh/openbio)
 - [OpenStatus](https://github.com/openstatusHQ/openstatus)
 - [Papermark](https://github.com/mfts/papermark)
