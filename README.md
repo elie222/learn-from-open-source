@@ -52,6 +52,8 @@ Feel free to make a pull request to add more projects to the list.
 - [YC Idea Matcher](https://github.com/neondatabase/yc-idea-matcher)
 - [OpenBio](https://github.com/vanxh/openbio)
 - [Zapdos](https://github.com/pingdotgg/zapdos)
+- [Tldraw](https://github.com/tldraw/tldraw)
+- [Commitgpt](https://github.com/RomanHotsiy/commitgpt)
 
 ## Custom Domains
 
@@ -84,6 +86,7 @@ Feel free to make a pull request to add more projects to the list.
 - [Quivr](https://github.com/StanGirard/quivr)
 - [Vercel Platforms Starter](https://github.com/vercel/platforms)
 - [YC Idea Matcher](https://github.com/neondatabase/yc-idea-matcher)
+- [Commitgpt](https://github.com/RomanHotsiy/commitgpt)
 
 ## Lemon Squeezy
 
@@ -210,7 +213,7 @@ Feel free to make a pull request to add more projects to the list.
 - [Cal.com](https://github.com/calcom/cal.com)
 - [Inbox Zero](https://getinboxzero.com/github)
 - [Novel.sh](https://github.com/steven-tey/novel)
-- [Railtrack](https://github.com/noahflk/railtrac
+- [Railtrack](https://github.com/noahflk/railtrack)
 - [Trigger.dev](https://github.com/triggerdotdev/trigger.dev)
 
 ## Turso
