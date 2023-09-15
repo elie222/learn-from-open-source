@@ -40,9 +40,9 @@ Feel free to make a pull request to add more projects to the list.
 
 - [Analyzemyrepo](https://github.com/CrowdDotDev/analyzemyrepo)
 - [AnswerOverflow](https://github.com/AnswerOverflow/AnswerOverflow)
+- [Cal.com](https://github.com/calcom/cal.com)
 - [Documenso](https://github.com/documenso/documenso)
 - [Dub.co](https://github.com/steven-tey/dub)
-- [Cal.com](https://github.com/calcom/cal.com)
 - [Ghostfolio](https://github.com/ghostfolio/ghostfolio)
 - [Inbox Zero](https://getinboxzero.com/github)
 - [OpenStatus](https://github.com/openstatusHQ/openstatus)
