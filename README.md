@@ -17,6 +17,7 @@ Feel free to make a pull request to add more projects to the list.
 - [NestJS](#nestjs)
 - [Next.js](#nextjs)
 - [Next Auth](#next-auth)
+- [Nx](#nx)
 - [Phoenix](#phoenix)
 - [PostHog](#posthog)
 - [Prisma](#prisma)
@@ -135,6 +136,10 @@ Feel free to make a pull request to add more projects to the list.
 - [Dub.co](https://github.com/steven-tey/dub)
 - [Inbox Zero](https://getinboxzero.com/github)
 - [Zapdos](https://github.com/pingdotgg/zapdos)
+
+## Nx
+
+- [Ghostfolio](https://github.com/ghostfolio/ghostfolio)
 
 ## Phoenix
 
