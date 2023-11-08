@@ -2,6 +2,8 @@
 
 This repo contains a list of real open source projects to learn from. It's often easier to learn from real-world examples. Examples in tutorials are usually limited.
 
+[Issues](https://github.com/elie222/learn-from-open-source/issues) contains many projects that have yet to be added to the README. They're also a good list of projects to learn from.
+
 Feel free to make a pull request to add more projects to the list.
 
 ## Table of Contents:
