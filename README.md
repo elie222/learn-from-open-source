@@ -87,6 +87,7 @@ Feel free to make a pull request to add more projects to the list.
 - [AnswerOverflow](https://github.com/AnswerOverflow/AnswerOverflow)
 - [OpenStatus](https://github.com/openstatusHQ/openstatus)
 - [OpenBio](https://github.com/vanxh/openbio)
+- [UnKey](https://unkey.dev/)
 
 ## Gmail API
 
@@ -219,6 +220,7 @@ Feel free to make a pull request to add more projects to the list.
 - [Dub.co](https://github.com/steven-tey/dub)
 - [OpenStatus](https://github.com/openstatusHQ/openstatus)
 - [Papermark](https://github.com/mfts/papermark)
+- [UnKey](https://unkey.dev/)
 
 ## Tiptap
 
