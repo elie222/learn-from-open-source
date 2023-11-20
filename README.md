@@ -203,6 +203,7 @@ Feel free to make a pull request to add more projects to the list.
 - [Documenso](https://github.com/documenso/documenso)
 - [Dub.co](https://github.com/steven-tey/dub)
 - [Cal.com](https://github.com/calcom/cal.com)
+- [Firecamp](https://github.com/firecamp-dev/firecamp)
 - [Inbox Zero](https://getinboxzero.com/github)
 - [OpenStatus](https://github.com/openstatusHQ/openstatus)
 - [Papermark](https://github.com/mfts/papermark)
