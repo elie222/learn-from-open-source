@@ -143,10 +143,6 @@ Feel free to make a pull request to add more projects to the list.
 
 - [Ghostfolio](https://github.com/ghostfolio/ghostfolio)
 
-## Phoenix
-
-- [Glossia](https://github.com/glossia/glossia)
-
 ## PostHog
 
 - [Inbox Zero](https://getinboxzero.com/github)
