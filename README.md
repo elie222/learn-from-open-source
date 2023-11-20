@@ -130,6 +130,7 @@ Feel free to make a pull request to add more projects to the list.
 - [YC Idea Matcher](https://github.com/neondatabase/yc-idea-matcher)
 - [OpenBio](https://github.com/vanxh/openbio)
 - [Zapdos](https://github.com/pingdotgg/zapdos)
+- [UnKey](https://unkey.dev/)
 
 ## Next Auth
 
@@ -214,6 +215,7 @@ Feel free to make a pull request to add more projects to the list.
 - [OpenBio](https://github.com/vanxh/openbio)
 - [Trigger.dev](https://github.com/triggerdotdev/trigger.dev)
 - [Zapdos](https://github.com/pingdotgg/zapdos)
+- [UnKey](https://unkey.dev/)
 
 ## Tinybird
 
