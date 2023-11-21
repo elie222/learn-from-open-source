@@ -56,6 +56,7 @@ Feel free to make a pull request to add more projects to the list.
 - [Trigger.dev](https://github.com/triggerdotdev/trigger.dev)
 - [Quivr](https://github.com/StanGirard/quivr)
 - [Railtrack](https://github.com/noahflk/railtrack)
+- [UnKey](https://unkey.dev/)
 - [Vercel Platforms Starter](https://github.com/vercel/platforms)
 - [YC Idea Matcher](https://github.com/neondatabase/yc-idea-matcher)
 - [OpenBio](https://github.com/vanxh/openbio)
