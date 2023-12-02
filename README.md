@@ -56,6 +56,7 @@ Feel free to make a pull request to add more projects to the list.
 - [Trigger.dev](https://github.com/triggerdotdev/trigger.dev)
 - [Quivr](https://github.com/StanGirard/quivr)
 - [Railtrack](https://github.com/noahflk/railtrack)
+- [UnKey](https://unkey.dev/)
 - [Vercel Platforms Starter](https://github.com/vercel/platforms)
 - [YC Idea Matcher](https://github.com/neondatabase/yc-idea-matcher)
 - [OpenBio](https://github.com/vanxh/openbio)
@@ -87,6 +88,7 @@ Feel free to make a pull request to add more projects to the list.
 - [AnswerOverflow](https://github.com/AnswerOverflow/AnswerOverflow)
 - [OpenStatus](https://github.com/openstatusHQ/openstatus)
 - [OpenBio](https://github.com/vanxh/openbio)
+- [UnKey](https://unkey.dev/)
 
 ## Gmail API
 
@@ -129,6 +131,7 @@ Feel free to make a pull request to add more projects to the list.
 - [YC Idea Matcher](https://github.com/neondatabase/yc-idea-matcher)
 - [OpenBio](https://github.com/vanxh/openbio)
 - [Zapdos](https://github.com/pingdotgg/zapdos)
+- [UnKey](https://unkey.dev/)
 
 ## Next Auth
 
@@ -209,12 +212,14 @@ Feel free to make a pull request to add more projects to the list.
 - [OpenBio](https://github.com/vanxh/openbio)
 - [Trigger.dev](https://github.com/triggerdotdev/trigger.dev)
 - [Zapdos](https://github.com/pingdotgg/zapdos)
+- [UnKey](https://unkey.dev/)
 
 ## Tinybird
 
 - [Dub.co](https://github.com/steven-tey/dub)
 - [OpenStatus](https://github.com/openstatusHQ/openstatus)
 - [Papermark](https://github.com/mfts/papermark)
+- [UnKey](https://unkey.dev/)
 
 ## Tiptap
 
