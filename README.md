@@ -63,6 +63,7 @@ Feel free to make a pull request to add more projects to the list.
 - [Zapdos](https://github.com/pingdotgg/zapdos)
 - [Tldraw](https://github.com/tldraw/tldraw)
 - [Commitgpt](https://github.com/RomanHotsiy/commitgpt)
+- [Keep](https://www.github.com/keephq/keep)
 
 ## Angular
 
@@ -82,6 +83,7 @@ Feel free to make a pull request to add more projects to the list.
 - [Ghostfolio](https://github.com/ghostfolio/ghostfolio)
 - [Trigger.dev](https://github.com/triggerdotdev/trigger.dev)
 - [Zapdos](https://github.com/pingdotgg/zapdos)
+- [Keep](https://www.github.com/keephq/keep)
 
 ## Drizzle
 
@@ -132,6 +134,7 @@ Feel free to make a pull request to add more projects to the list.
 - [OpenBio](https://github.com/vanxh/openbio)
 - [Zapdos](https://github.com/pingdotgg/zapdos)
 - [UnKey](https://unkey.dev/)
+- [Keep](https://www.github.com/keephq/keep)
 
 ## Next Auth
 
@@ -141,6 +144,7 @@ Feel free to make a pull request to add more projects to the list.
 - [Dub.co](https://github.com/steven-tey/dub)
 - [Inbox Zero](https://getinboxzero.com/github)
 - [Zapdos](https://github.com/pingdotgg/zapdos)
+- [Keep](https://www.github.com/keephq/keep)
 
 ## Nx
 
@@ -149,6 +153,7 @@ Feel free to make a pull request to add more projects to the list.
 ## PostHog
 
 - [Inbox Zero](https://getinboxzero.com/github)
+- [Keep](https://www.github.com/keephq/keep)
 
 ## Prisma
 
@@ -213,6 +218,7 @@ Feel free to make a pull request to add more projects to the list.
 - [Trigger.dev](https://github.com/triggerdotdev/trigger.dev)
 - [Zapdos](https://github.com/pingdotgg/zapdos)
 - [UnKey](https://unkey.dev/)
+- [Keep](https://www.github.com/keephq/keep)
 
 ## Tinybird
 
@@ -258,3 +264,4 @@ Feel free to make a pull request to add more projects to the list.
 # CLI
 
 - [Commitgpt](https://github.com/RomanHotsiy/commitgpt)
+- [Keep](https://www.github.com/keephq/keep)
