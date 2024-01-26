@@ -45,6 +45,7 @@ Feel free to make a pull request to add more projects to the list.
 
 - [Analyzemyrepo](https://github.com/CrowdDotDev/analyzemyrepo)
 - [AnswerOverflow](https://github.com/AnswerOverflow/AnswerOverflow)
+- [Aptabase](https://github.com/aptabase/aptabase)
 - [Cal.com](https://github.com/calcom/cal.com)
 - [Documenso](https://github.com/documenso/documenso)
 - [Dub.co](https://github.com/steven-tey/dub)
@@ -107,6 +108,7 @@ Feel free to make a pull request to add more projects to the list.
 
 ## Lemon Squeezy
 
+- [Aptabase](https://github.com/aptabase/aptabase)
 - [Inbox Zero](https://getinboxzero.com/github)
 
 ## Neon
@@ -222,6 +224,7 @@ Feel free to make a pull request to add more projects to the list.
 
 ## Tinybird
 
+- [Aptabase](https://github.com/aptabase/aptabase)
 - [Dub.co](https://github.com/steven-tey/dub)
 - [OpenStatus](https://github.com/openstatusHQ/openstatus)
 - [Papermark](https://github.com/mfts/papermark)
