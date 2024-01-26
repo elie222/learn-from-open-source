@@ -264,4 +264,5 @@ Feel free to make a pull request to add more projects to the list.
 # CLI
 
 - [Commitgpt](https://github.com/RomanHotsiy/commitgpt)
+- [Dun](https://github.com/NickTikhonov/dun-cli)
 - [Keep](https://www.github.com/keephq/keep)
