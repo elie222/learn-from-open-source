@@ -35,6 +35,7 @@ Feel free to make a pull request to add more projects to the list.
 - [Turso](#turso)
 - [Upstash](#upstash)
 - [CLI](#cli)
+- [Automatic 1111](#automatic1111)
 
 ## YouTube Channels
 
@@ -269,3 +270,9 @@ Feel free to make a pull request to add more projects to the list.
 - [Commitgpt](https://github.com/RomanHotsiy/commitgpt)
 - [Dun](https://github.com/NickTikhonov/dun-cli)
 - [Keep](https://www.github.com/keephq/keep)
+
+
+# Automatic1111
+
+- [Stable Diffusion Web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+- [Auto 1111 SDK](https://github.com/saketh12/Auto1111SDK)
