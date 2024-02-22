@@ -252,6 +252,7 @@ Feel free to make a pull request to add more projects to the list.
 - [Novel.sh](https://github.com/steven-tey/novel)
 - [Railtrack](https://github.com/noahflk/railtrack)
 - [Trigger.dev](https://github.com/triggerdotdev/trigger.dev)
+- [OpenStatus](https://github.com/openstatusHQ/openstatus)
 
 ## Turso
 
