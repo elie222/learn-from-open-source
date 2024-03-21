@@ -67,6 +67,7 @@ Feel free to make a pull request to add more projects to the list.
 - [Commitgpt](https://github.com/RomanHotsiy/commitgpt)
 - [Keep](https://www.github.com/keephq/keep)
 - [Impler](https://github.com/implerhq/impler.io)
+- [Midday](https://git.new/midday)
 
 ## Angular
 
