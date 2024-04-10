@@ -55,6 +55,7 @@ Feel free to make a pull request to add more projects to the list.
 - [OpenStatus](https://github.com/openstatusHQ/openstatus)
 - [Novel.sh](https://github.com/steven-tey/novel)
 - [Papermark](https://github.com/mfts/papermark)
+- [Tolgee](https://github.com/tolgee)
 - [Trigger.dev](https://github.com/triggerdotdev/trigger.dev)
 - [Quivr](https://github.com/StanGirard/quivr)
 - [Railtrack](https://github.com/noahflk/railtrack)
@@ -257,6 +258,7 @@ Feel free to make a pull request to add more projects to the list.
 - [Cal.com](https://github.com/calcom/cal.com)
 - [Inbox Zero](https://getinboxzero.com/github)
 - [Novel.sh](https://github.com/steven-tey/novel)
+- [Tolgee](https://github.com/tolgee/tolgee-js)
 - [Trigger.dev](https://github.com/triggerdotdev/trigger.dev)
 - [OpenStatus](https://github.com/openstatusHQ/openstatus)
 - [Dub.co](https://github.com/steven-tey/dub)
@@ -277,6 +279,7 @@ Feel free to make a pull request to add more projects to the list.
 - [Commitgpt](https://github.com/RomanHotsiy/commitgpt)
 - [Dun](https://github.com/NickTikhonov/dun-cli)
 - [Keep](https://www.github.com/keephq/keep)
+- [Tolgee](https://github.com/tolgee/tolgee-cli)
 
 # Pnpm
 
